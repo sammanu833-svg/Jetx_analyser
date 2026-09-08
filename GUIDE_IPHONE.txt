@@ -1,0 +1,14 @@
+# Guide iPhone — GitHub
+
+Fichiers à envoyer dans le dépôt `jetx-analyzer` :
+
+- app.py
+- requirements.txt
+- .env.example
+- .gitignore
+- README.md
+- templates/index.html
+
+Important : le fichier `index.html` doit rester dans le dossier `templates`.
+
+Ne téléverse pas ton token Telegram dans GitHub.
